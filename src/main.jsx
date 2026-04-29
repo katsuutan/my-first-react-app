@@ -6,6 +6,6 @@ import { Sushi } from './Foodtest.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Sushi />
+    <App />
   </StrictMode>,
 )
